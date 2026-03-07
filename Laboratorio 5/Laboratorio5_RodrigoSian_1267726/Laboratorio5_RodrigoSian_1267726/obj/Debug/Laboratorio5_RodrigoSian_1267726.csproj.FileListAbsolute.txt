@@ -1,0 +1,8 @@
+C:\Users\Windows 10\source\repos\Laboratorio5_RodrigoSian_1267726\Laboratorio5_RodrigoSian_1267726\bin\Debug\Laboratorio5_RodrigoSian_1267726.exe.config
+C:\Users\Windows 10\source\repos\Laboratorio5_RodrigoSian_1267726\Laboratorio5_RodrigoSian_1267726\bin\Debug\Laboratorio5_RodrigoSian_1267726.exe
+C:\Users\Windows 10\source\repos\Laboratorio5_RodrigoSian_1267726\Laboratorio5_RodrigoSian_1267726\bin\Debug\Laboratorio5_RodrigoSian_1267726.pdb
+C:\Users\Windows 10\source\repos\Laboratorio5_RodrigoSian_1267726\Laboratorio5_RodrigoSian_1267726\obj\Debug\Laboratorio5_RodrigoSian_1267726.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\Laboratorio5_RodrigoSian_1267726\Laboratorio5_RodrigoSian_1267726\obj\Debug\Laboratorio5_RodrigoSian_1267726.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Laboratorio5_RodrigoSian_1267726\Laboratorio5_RodrigoSian_1267726\obj\Debug\Laboratorio5_RodrigoSian_1267726.exe
+C:\Users\Windows 10\source\repos\Laboratorio5_RodrigoSian_1267726\Laboratorio5_RodrigoSian_1267726\obj\Debug\Laboratorio5_RodrigoSian_1267726.pdb
+C:\Users\Windows 10\source\repos\Laboratorio5_RodrigoSian_1267726\Laboratorio5_RodrigoSian_1267726\obj\Debug\Laboratorio5_RodrigoSian_1267726.exe.config
