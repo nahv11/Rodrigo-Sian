@@ -1,0 +1,8 @@
+C:\Users\Windows 10\source\repos\L9+_+RESI+1267726\L9+_+RESI+1267726\bin\Debug\L9+_+RESI+1267726.exe.config
+C:\Users\Windows 10\source\repos\L9+_+RESI+1267726\L9+_+RESI+1267726\bin\Debug\L9+_+RESI+1267726.exe
+C:\Users\Windows 10\source\repos\L9+_+RESI+1267726\L9+_+RESI+1267726\bin\Debug\L9+_+RESI+1267726.pdb
+C:\Users\Windows 10\source\repos\L9+_+RESI+1267726\L9+_+RESI+1267726\obj\Debug\L9+_+RESI+1267726.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\L9+_+RESI+1267726\L9+_+RESI+1267726\obj\Debug\L9+_+RESI+1267726.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\L9+_+RESI+1267726\L9+_+RESI+1267726\obj\Debug\L9+_+RESI+1267726.exe
+C:\Users\Windows 10\source\repos\L9+_+RESI+1267726\L9+_+RESI+1267726\obj\Debug\L9+_+RESI+1267726.pdb
+C:\Users\Windows 10\source\repos\L9+_+RESI+1267726\L9+_+RESI+1267726\obj\Debug\L9+_+RESI+1267726.exe.config
