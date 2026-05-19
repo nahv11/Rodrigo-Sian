@@ -1,0 +1,7 @@
+C:\Users\sianr\source\repos\L13_+RESI+1267726\L13_+RESI+1267726\bin\Debug\L13_+RESI+1267726.exe.config
+C:\Users\sianr\source\repos\L13_+RESI+1267726\L13_+RESI+1267726\bin\Debug\L13_+RESI+1267726.exe
+C:\Users\sianr\source\repos\L13_+RESI+1267726\L13_+RESI+1267726\bin\Debug\L13_+RESI+1267726.pdb
+C:\Users\sianr\source\repos\L13_+RESI+1267726\L13_+RESI+1267726\obj\Debug\L13_+RESI+1267726.csproj.AssemblyReference.cache
+C:\Users\sianr\source\repos\L13_+RESI+1267726\L13_+RESI+1267726\obj\Debug\L13_+RESI+1267726.csproj.CoreCompileInputs.cache
+C:\Users\sianr\source\repos\L13_+RESI+1267726\L13_+RESI+1267726\obj\Debug\L13_+RESI+1267726.exe
+C:\Users\sianr\source\repos\L13_+RESI+1267726\L13_+RESI+1267726\obj\Debug\L13_+RESI+1267726.pdb
