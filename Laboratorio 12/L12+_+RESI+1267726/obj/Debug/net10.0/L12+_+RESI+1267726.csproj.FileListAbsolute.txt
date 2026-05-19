@@ -1,0 +1,14 @@
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\bin\Debug\net10.0\L12+_+RESI+1267726.exe
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\bin\Debug\net10.0\L12+_+RESI+1267726.deps.json
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\bin\Debug\net10.0\L12+_+RESI+1267726.runtimeconfig.json
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\bin\Debug\net10.0\L12+_+RESI+1267726.dll
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\bin\Debug\net10.0\L12+_+RESI+1267726.pdb
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\obj\Debug\net10.0\L12+_+RESI+1267726.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\obj\Debug\net10.0\L12+_+RESI+1267726.AssemblyInfoInputs.cache
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\obj\Debug\net10.0\L12+_+RESI+1267726.AssemblyInfo.cs
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\obj\Debug\net10.0\L12+_+RESI+1267726.csproj.CoreCompileInputs.cache
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\obj\Debug\net10.0\L12+_+RESI+1267726.dll
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\obj\Debug\net10.0\refint\L12+_+RESI+1267726.dll
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\obj\Debug\net10.0\L12+_+RESI+1267726.pdb
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\obj\Debug\net10.0\L12+_+RESI+1267726.genruntimeconfig.cache
+C:\Users\sianr\source\repos\L12+_+RESI+1267726\L12+_+RESI+1267726\obj\Debug\net10.0\ref\L12+_+RESI+1267726.dll
