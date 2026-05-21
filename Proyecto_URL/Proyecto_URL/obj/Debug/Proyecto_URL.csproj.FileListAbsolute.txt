@@ -1,0 +1,8 @@
+C:\Users\Windows 10\source\repos\Proyecto_URL\Proyecto_URL\bin\Debug\Proyecto_URL.exe.config
+C:\Users\Windows 10\source\repos\Proyecto_URL\Proyecto_URL\bin\Debug\Proyecto_URL.exe
+C:\Users\Windows 10\source\repos\Proyecto_URL\Proyecto_URL\bin\Debug\Proyecto_URL.pdb
+C:\Users\Windows 10\source\repos\Proyecto_URL\Proyecto_URL\obj\Debug\Proyecto_URL.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\Proyecto_URL\Proyecto_URL\obj\Debug\Proyecto_URL.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Proyecto_URL\Proyecto_URL\obj\Debug\Proyecto_URL.exe
+C:\Users\Windows 10\source\repos\Proyecto_URL\Proyecto_URL\obj\Debug\Proyecto_URL.pdb
+C:\Users\Windows 10\source\repos\Proyecto_URL\Proyecto_URL\obj\Debug\Proyecto_URL.exe.config
